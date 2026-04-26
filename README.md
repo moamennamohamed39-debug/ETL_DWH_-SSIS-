@@ -105,27 +105,15 @@ Each package is responsible for a specific stage in the pipeline:
 ---
 
 ## 📸 Screenshots
-## Data Model
+## 📊 Project Images
 
-### Dimensions
-
-#### Dim Salesman
-![Dim Salesman](images/dim-salesman.png)
-
-#### Dim Customer
-![Dim Customer](images/dim_customer.png)
-
-#### Dim Product
-![Dim Product](images/dim_product.png)
-
-### Fact Table
-
-#### Fact Sales
-![Fact Sales](images/fact_sale.png)
-
-### Incremental Load
-![Incremental Load](images/incremental_load.png)
----
+- [Dim Salesman](ETL_(ssis)_DWH/Images/dim-salesman.png)
+- [Dim Customer](ETL_(ssis)_DWH/Images/dim_customer.png)
+- [Dim Product](ETL_(ssis)_DWH/Images/dim_product.png)
+- [Fact Sale](ETL_(ssis)_DWH/Images/fact_sale.png)
+- [Incremental Load](ETL_(ssis)_DWH/Images/incremental_load.png)
+- [OLAP Diagram](ETL_(ssis)_DWH/Images/olap_diagram.png)
+- [OLTP Diagram](ETL_(ssis)_DWH/Images/oltp_diagram.png)
 
 ## 🚀 How to Run
 
