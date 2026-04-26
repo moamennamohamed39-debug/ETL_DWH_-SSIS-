@@ -104,7 +104,6 @@ Each package is responsible for a specific stage in the pipeline:
 
 ---
 
-## 📸 Screenshots
 ## 📊 Project Images
 
 - [Dim Salesman](ETL_(ssis)_DWH/Images/dim-salesman.png)
